@@ -7,7 +7,8 @@ Project Name: Binary classification of sentence sentiment
 
 python version: python 2.7.12
 
-installed library: from sklearn import svm
-                   from sklearn.model_selection import GridSearchCV
-                   from numpy import array
-                   from sklearn.metrics
+Libraries:
+from sklearn import svm
+from sklearn.model_selection import GridSearchCV
+from numpy import array
+from sklearn.metrics
